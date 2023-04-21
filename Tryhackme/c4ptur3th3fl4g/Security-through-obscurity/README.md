@@ -1,22 +1,25 @@
-#  Steganography Task 3
+#  Security through obscurity
 
 ## Problem
-Steganography is the practice of concealing a file, message, image, or video within another file, message, image, or video.
-.jpg is in the dir.
+Security through obscurity is the reliance in security engineering on the secrecy of the design or implementation as the main method of providing security for a system or component of a system.
 
-![Pic](stegosteg.jpg)
-
+![Pic](./meme.jpg)
 
 
 ## Solution
 
-Use steghide tool to extract data
+1. Use strings to find first flag
 
 ![steghide](./src/s1.png)
 
+```bash
+FLAG:  hackerchat.png
+```
+
+2. The string above firstflag is the second flag
 
 
 ```bash
-FLAG:  SpaghettiSteg
+FLAG:  AHH_YOU_FOUND_ME!
 ```
 
