@@ -1,0 +1,8 @@
+POST 
+
+https://whats-my-password-web.chal.irisc.tf/api/login
+
+{
+    "username": " ' -- SELECT * FROM USERS ",
+    "password": "ilovegolang42"
+}
