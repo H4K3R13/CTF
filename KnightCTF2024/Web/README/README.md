@@ -1,6 +1,6 @@
 ![1705766245696](image/README/1705766245696.png)
 
-Two file name are give here 
+Two file name are give here
 
 - `flag.txt`
 - `text.txt`
@@ -13,3 +13,9 @@ while checking for js endpoints
 ![1705766571012](image/README/1705766571012.png)
 
 `fetch?file=text.txt`
+
+
+![1705982594401](image/README/1705982594401.png)
+
+
+![1705982612956](image/README/1705982612956.png)
